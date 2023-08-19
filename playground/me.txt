@@ -1,5 +1,0 @@
-{{#user}}
-Name: Umesh Patel
-Skills: HTML, CSS, JS,Python,C++,C
-Email: up41174@gmail.com
-{{/user}}
